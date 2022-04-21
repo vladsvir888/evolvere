@@ -1,0 +1,125 @@
+<mjml>
+  <mj-head>
+      <mj-style>
+          @media (min-width: 480px) {
+              .content {
+                  padding-left: 16px !important;
+              }
+
+              .benefits-img {
+                  padding-bottom: 0 !important;
+              }
+
+              .technology-img {
+                  padding-left: 16px !important;
+                  padding-top: 0 !important;
+              }
+
+              .promo-img {
+                  padding-bottom: 66px !important;
+              }
+
+              .learn-more {
+                  padding-bottom: 66px !important;
+              }
+
+              .title {
+                  padding: 0 25px 20px !important;
+              }
+
+              .subtitle {
+                  padding: 0 25px 36px !important;
+              }
+
+              .btn {
+                  padding: 0 25px 33px !important;
+              }
+          }
+      </mj-style>
+  </mj-head>
+  <mj-body width="600px">
+    <mj-section background-color="#F8F2EC" padding="16px 16px 0">
+      <mj-column>
+        <mj-image fluid-on-mobile="true" css-class="promo-img" padding="0" padding-bottom="33px" src="https://bitrix.imediasolutions.ru/evolvere/1.jpg" alt="img" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F8F2EC" padding="0 16px 0">
+        <mj-column width="350px">
+          <mj-text css-class="title" padding="0 0 20px">
+              <h1 style="font-size: 40px; line-height: 41px; color: #3C3D34; font-weight: 400; font-style: normal; font-family: 'Georgia'; margin: 0;">
+                Lenses that auto-adjust with your vision.
+              </h1>
+          </mj-text>
+          <mj-text css-class="subtitle" padding="0 0 36px" font-family="Arial" font-style="normal" font-weight="400" font-size="16px" line-height="24px" color="#3C3D34">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut diam nisi, pellentesque fringilla proin. Id quis ornare a tristique nunc id egestas amet egestas. Arcu sem et rhoncus lorem sit cras volutpat. Viverra arcu viverra eu diam hac.
+          </mj-text>
+          <mj-button css-class="btn" padding="0 0 33px" css-class="learn-more"  background-color="#3C3D34" border-radius="60px" align="left" color="#F8F2EC" font-size="14px" font-weight="400" font-style="normal" font-family="Arial" href="#">
+              Learn more
+          </mj-button>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#F8F2EC" padding="0 16px 32px">
+      <mj-column vertical-align="middle">
+          <mj-image fluid-on-mobile="true" css-class="benefits-img" padding="0" padding-bottom="16px" src="https://bitrix.imediasolutions.ru/evolvere/2.jpg" alt="img" />
+      </mj-column>
+      <mj-column vertical-align="middle">
+          <mj-text css-class="content" padding="0" padding-bottom="8px" font-family="Georgia" font-style="normal" font-weight="400" font-size="17px" line-height="19px" color="#39343D">
+              Product Benefits
+          </mj-text>
+          <mj-text css-class="content" padding="0" padding-bottom="8px" font-family="Arial" font-style="normal" font-weight="400" font-size="14px" line-height="21px" color="#39343D">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus amet amet, sit diam eu cras eget malesuada orci. Et et, ut bibendum eu ornare morbi facilisis velit.
+          </mj-text>
+          <mj-button css-class="content" padding="0" align="left" background-color="transparent" color="#39343D" text-decoration="underline" font-family="Arial" font-size="14px" font-weight="400" font-style="normal" line-height="16px" inner-padding="0" href="#">
+              Shop now
+          </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F8F2EC" padding="0 16px 32px">
+      <mj-column vertical-align="middle">
+          <mj-text padding="0" padding-bottom="8px" font-family="Georgia" font-style="normal" font-weight="400" font-size="17px" line-height="19px" color="#39343D">
+              Behind the technology
+          </mj-text>
+          <mj-text padding="0" padding-bottom="8px" font-family="Arial" font-style="normal" font-weight="400" font-size="14px" line-height="21px" color="#39343D">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus amet amet, sit diam eu cras eget malesuada orci. Et et, ut bibendum eu ornare morbi facilisis velit.
+          </mj-text>
+          <mj-button padding="0" align="left" background-color="transparent" color="#39343D" text-decoration="underline" font-family="Arial" font-size="14px" font-weight="400" font-style="normal" line-height="16px" inner-padding="0" href="#">
+              Discover
+          </mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image fluid-on-mobile="true" padding="0" padding-top="16px" css-class="technology-img" src="https://bitrix.imediasolutions.ru/evolvere/3.jpg" alt="img" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#eeeeee" padding="16px">
+      <mj-column width="100%">
+        <mj-text padding="0" align="center" font-size="12px" line-height="14px" font-weight="400" font-style="normal" font-family="Arial">
+            <a style="text-decoration: underline; color: #777777; margin-right: 5px;" href="#">View in the browser</a>
+            <a style="text-decoration: underline; color: #777777;" href="#">Unsubscribe</a>
+       </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3C3D34" padding="28px 16px 16px">
+        <mj-column>
+            <mj-image padding-top="0" padding-bottom="10px" padding-left="0" padding-right="0" align="left" width="74px" height="29px" src="https://bitrix.imediasolutions.ru/evolvere/logo.png" alt="logo" />
+            <mj-text padding-left="0" padding-top="0" padding-bottom="10px" padding-right="0" color="#ffffff" font-size="14px" line-height="17px" font-weight="400" font-style="normal" font-family="Arial">
+                © 2021 ēvolvereoptics. All Rights Reserved.
+            </mj-text>
+            <mj-text padding-left="0" padding-right="0" padding-top="0" padding-bottom="10px" color="#ffffff" font-size="14px" line-height="17px" font-weight="400" font-style="normal" font-family="Arial">
+                42/102 Canterbury Street, East Melbourne, Victoria, Australia 3066
+            </mj-text>
+        </mj-column>
+        <mj-column vertical-align="bottom">
+        <mj-social icon-size="30px" mode="horizontal" padding="0" align="right">
+            <mj-social-element name="facebook" href="#" background-color="transparent">
+            </mj-social-element>
+            <mj-social-element name="instagram" href="#" background-color="transparent">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="#" background-color="transparent">
+            </mj-social-element>
+            <mj-social-element name="youtube" href="#" background-color="transparent">
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
